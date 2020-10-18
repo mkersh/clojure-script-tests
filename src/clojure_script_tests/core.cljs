@@ -4,7 +4,7 @@
 (enable-console-print!)
 
 (println "This text is printed from src/clojure-script-tests/core.cljs. Go ahead and edit it and see reloading in actionTTTT.")
-(println "Hello world2")
+(println "Hello world255")
 
 ;; define your app data so that it doesn't get over-written on reload
 
